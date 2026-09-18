@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "recriado": "2026-07-28",
+    "nota": "trials-pool.json original perdeu-se na migracao Windows->Mac. Recriado vazio. O Arquitecto actualiza o status apos configurar cada trial (regra do master prompt).",
+    "schema": {
+      "empresa": "nome",
+      "dominio": "empresa.pipedrive.com",
+      "inicio": "YYYY-MM-DD",
+      "expira": "YYYY-MM-DD",
+      "status": "por_configurar | configurado | em_demo | convertido | expirado",
+      "owner": "quem acompanha",
+      "notas": "contexto"
+    }
+  },
+  "trials": []
+}

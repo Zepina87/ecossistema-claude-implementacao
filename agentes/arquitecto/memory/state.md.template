@@ -1,0 +1,25 @@
+# O Arquitecto — State (blackboard)
+**Camada 3 de 4 | Actualizar após cada demo configurada | Schema fixo, não inventar secções**
+
+Copia este ficheiro para `state.md` (fora do controlo de versões, ver `.gitignore`) na primeira
+utilização e mantém-no vivo.
+
+---
+
+## DEMO ACTIVA
+
+```
+[sem demo activa]
+```
+
+## POOL DE TRIALS (espelha config/trials-pool.json)
+
+```
+[sem trials no pool ainda — ver ALERTA CRÍTICO no master prompt]
+```
+
+## DEMOS ANTERIORES
+
+```
+[sem histórico ainda]
+```
